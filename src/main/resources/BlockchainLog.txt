@@ -1,0 +1,377 @@
+Process 0:
+ Bramhashree Manoharan's Blockchain System. Use Control-C to stop the process.
+
+Using processID 0
+
+Servers are up and listening..
+Input file- BlockInput0.txt
+Yet to Solve 10 Unverified Blocks
+Hash is: 6F6ABF92433127CB4D31E0995480906FC17E45E2D11F0E4AC55BB300237CBECA
+First 16 bits in Hex and Decimal: 6F6A and 28522
+28522 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 1AF8064B5A52BD957551A9A7639383A779CFD058900A1F42C292684EF8C406C2
+First 16 bits in Hex and Decimal: 1AF8 and 6904
+6904 IS less than 20,000 so puzzle solved!
+Verification Done!
+Yet to Solve 9 Unverified Blocks
+Hash is: 49283F3A928F35F45623AF89F38F6E1FB08FD967E4BE82AF3CB6FCF7051E8CFF
+First 16 bits in Hex and Decimal: 4928 and 18728
+18728 IS less than 20,000 so puzzle solved!
+Verification Done!
+Yet to Solve 8 Unverified Blocks
+Hash is: 77DC0DCA2C2CF73A3A4858B70D014392E94F13EDB4A12977EB7F96956B8F9059
+First 16 bits in Hex and Decimal: 77DC and 30684
+30684 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: AAF3DCD679E0F298BD348F6849272FDFE175414287FEB8B496B2320D8BAB8230
+First 16 bits in Hex and Decimal: AAF3 and 43763
+43763 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 3046A6286357C49EF77BE11AEEAA65DD6E77089EA51A83CF3B2097F4B736B5DD
+First 16 bits in Hex and Decimal: 3046 and 12358
+12358 IS less than 20,000 so puzzle solved!
+Verification Done!
+Yet to Solve 7 Unverified Blocks
+Hash is: B491BA65C3ECFAED79224061B0AAC470170A27A123EDDF07539DAD80CD3130E3
+First 16 bits in Hex and Decimal: B491 and 46225
+46225 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 52097E3C1655D5DAE1AE81A648D31C02F75683DC2A275B2700A3F079D280D386
+First 16 bits in Hex and Decimal: 5209 and 21001
+21001 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: CB2F543AD93F1103551886F6AD0CC1C4E34AF65871F5C9BEB30BE57CB3491610
+First 16 bits in Hex and Decimal: CB2F and 52015
+52015 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 8C5E1BA86019DA678C25948C4F6BDE76076067E67E2D3CBA70D27763C7A88BA5
+First 16 bits in Hex and Decimal: 8C5E and 35934
+35934 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: FEA9AC7F7CAF6F651A33B14C055B184BAD4B00CEBCB439151B8402C937EBD26F
+First 16 bits in Hex and Decimal: FEA9 and 65193
+65193 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 7F99416E732024D1E8F26F188481322D39A881CCD4BB41FA62D4535C6D2625D2
+First 16 bits in Hex and Decimal: 7F99 and 32665
+32665 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: E184A416BB280B2E0D8FE99C2C65C37FA5702C4F271F5BD7CB36F1D34FC7EAFA
+First 16 bits in Hex and Decimal: E184 and 57732
+57732 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 57CA2CA499D7908C6804D0F7B8CF7D502337430228F64D34B21787F5824FDC8E
+First 16 bits in Hex and Decimal: 57CA and 22474
+22474 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: A63513FA45F084B400C46756277EE66D0D116D00E7C1F8C3ED347A937AB35F48
+First 16 bits in Hex and Decimal: A635 and 42549
+42549 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: A890E89014D4F12CC94DCD1481295ACD46F6AA3E2415995FC18EE4C1FE5215A7
+First 16 bits in Hex and Decimal: A890 and 43152
+43152 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 46C7D4B04A46CD3E5CD6A74E2D09BA2F1D869E4584924B3DC354F0ECFD0C9F72
+First 16 bits in Hex and Decimal: 46C7 and 18119
+18119 IS less than 20,000 so puzzle solved!
+Verification Done!
+Yet to Solve 6 Unverified Blocks
+Hash is: 573C9BCFF5482157B7D0EBB6D1E299BB6C83EFB7B31261A83B702672F61D577E
+First 16 bits in Hex and Decimal: 573C and 22332
+22332 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 02DED4BFED104D5F4FB8BB0E0028C114895FFFB6404C49AD51F4C00E5951C3D3
+First 16 bits in Hex and Decimal: 02DE and 734
+734 IS less than 20,000 so puzzle solved!
+Verification Done!
+Yet to Solve 5 Unverified Blocks
+Hash is: 3399FC4B590F70AB3098B99E13903D245F620E638C664509C089B79E591E3D28
+First 16 bits in Hex and Decimal: 3399 and 13209
+13209 IS less than 20,000 so puzzle solved!
+Verification Done!
+Yet to Solve 4 Unverified Blocks
+Hash is: CC615DE0212A864B3C3B4E5589F25CE86E58AF2306460BFA17AA968DAE3CF409
+First 16 bits in Hex and Decimal: CC61 and 52321
+52321 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 03E15450C22A17DA69D339B101548C9A2CF28441B7704CB14B5595581FE4BB89
+First 16 bits in Hex and Decimal: 03E1 and 993
+993 IS less than 20,000 so puzzle solved!
+Verification Done!
+Yet to Solve 3 Unverified Blocks
+Hash is: 202C3B3B49BD60AE4E82F1F6A8A46457F5D55A5E35F681B64E3FBAE50BB62999
+First 16 bits in Hex and Decimal: 202C and 8236
+8236 IS less than 20,000 so puzzle solved!
+Verification Done!
+Yet to Solve 2 Unverified Blocks
+Hash is: 6A702D0E5094A71C8188ADF0CD7F7163AEBF8B40AD3C9CB9DE817F7A576536BD
+First 16 bits in Hex and Decimal: 6A70 and 27248
+27248 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: BB9C2C288505EA9965944C7784E24699B0B9BBDBBFB3426A811EECB9652E2D02
+First 16 bits in Hex and Decimal: BB9C and 48028
+48028 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: C5049638BE2174C9744CB74C5D2F389FA0D9167A8263EB2D4ED5113D63485DF3
+First 16 bits in Hex and Decimal: C504 and 50436
+50436 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: EDDAC9C96B1B78CB5C753F42083771413453E70C7DD551CB9F3D03C305AC49DA
+First 16 bits in Hex and Decimal: EDDA and 60890
+60890 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 912B12100E0EE7B26D8AF8C6FE68AFEC10F87377D0C12213784580AA6D4E7F55
+First 16 bits in Hex and Decimal: 912B and 37163
+37163 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 6FFCDE665592E8454ADDF726E210581308756E72BB71D1336A9A41B937AC4C7B
+First 16 bits in Hex and Decimal: 6FFC and 28668
+28668 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 2C6F8D1B35FCCC59F14119A01306E660D8B39FEA0507A434DBEB0851F868F245
+First 16 bits in Hex and Decimal: 2C6F and 11375
+11375 IS less than 20,000 so puzzle solved!
+Verification Done!
+Yet to Solve 1 Unverified Blocks
+Hash is: 11CB541DC5AD8E8AD1B13057D45B5C03266BB3B63F8D23FD16103514AB476DBB
+First 16 bits in Hex and Decimal: 11CB and 4555
+4555 IS less than 20,000 so puzzle solved!
+Verification Done!
+Yet to Solve 0 Unverified Blocks
+Hash is: 30E63AC820C25278223BF3D0F5986BDBEDECAA08CE21698E97366056C1E3C881
+First 16 bits in Hex and Decimal: 30E6 and 12518
+12518 IS less than 20,000 so puzzle solved!
+Verification Done!
+Yet to Solve 0 Unverified Blocks
+THE BLOCKCHAIN IS COMPLETED
+-----------------------------------------------------
+Process 1:
+ Bramhashree Manoharan's Blockchain System. Use Control-C to stop the process.
+
+Using processID 1
+
+Servers are up and listening..
+Input file- BlockInput1.txt
+Yet to Solve 10 Unverified Blocks
+Hash is: 90E0FFFFEDF626A3D177FDD93F5431F55DD105AD9B803BAE9955B3905FF5F00D
+First 16 bits in Hex and Decimal: 90E0 and 37088
+37088 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 3207832A54D931508157F9870BBC8E157B31E01C58B37E69E3EC313EC2175A40
+First 16 bits in Hex and Decimal: 3207 and 12807
+12807 IS less than 20,000 so puzzle solved!
+Verification Done!
+Yet to Solve 9 Unverified Blocks
+Hash is: 958BE54DDA12148523E2A54E6B7E529B17241FC025175E092F24C48E1EC026AD
+First 16 bits in Hex and Decimal: 958B and 38283
+38283 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 0A788899CC1399536D93D93F8FE2790A27498883870DD05DC7E6F70E9904CDDC
+First 16 bits in Hex and Decimal: 0A78 and 2680
+2680 IS less than 20,000 so puzzle solved!
+Verification Done!
+Yet to Solve 8 Unverified Blocks
+Hash is: CE93AA9ECAC505894514906596EAEE9A36660A25A8FE96C27C7A4E86CE309441
+First 16 bits in Hex and Decimal: CE93 and 52883
+52883 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 198BCC1D6C35208611FDEABE55BEF892B02DDB220766B25BC470AD27F62E6BD5
+First 16 bits in Hex and Decimal: 198B and 6539
+6539 IS less than 20,000 so puzzle solved!
+Verification Done!
+Yet to Solve 7 Unverified Blocks
+Hash is: 1232E1CF4FFDD2D465B3A0F73A97173A6773A606F6DAA5C25E8F591E23463DB7
+First 16 bits in Hex and Decimal: 1232 and 4658
+4658 IS less than 20,000 so puzzle solved!
+Verification Done!
+Yet to Solve 6 Unverified Blocks
+Hash is: 41BD3520E75B05B22B8694A75C0A75B6431E284269E2BE3148CF097E49A6E37D
+First 16 bits in Hex and Decimal: 41BD and 16829
+16829 IS less than 20,000 so puzzle solved!
+Verification Done!
+Yet to Solve 5 Unverified Blocks
+Hash is: 8612FA649773C45E902F5662156B6D598DE22B2B7B626459BD6CE01EC9F56C19
+First 16 bits in Hex and Decimal: 8612 and 34322
+34322 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: FA294A4EECE70F31CA860037EE61BC9445E10C90598C561E7BEFB6237565780A
+First 16 bits in Hex and Decimal: FA29 and 64041
+64041 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 3DA2AF20F8360CD253AE2EF173F1BC1C845D99C6C0C8D9A7F5DF26FFF81C80DB
+First 16 bits in Hex and Decimal: 3DA2 and 15778
+15778 IS less than 20,000 so puzzle solved!
+Verification Done!
+Yet to Solve 4 Unverified Blocks
+Hash is: E800FB7487FC5C346A2E3D7754D35B65EA2CB6A971D3CB59474C2382D6558616
+First 16 bits in Hex and Decimal: E800 and 59392
+59392 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 9F0E907FDB9EA8ED1657B7DE57F6CC42F1B799A6F7B55E8D3E5E3828DFFF66E7
+First 16 bits in Hex and Decimal: 9F0E and 40718
+40718 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: C8F8D4942BF1BDFA7598D7F550C401A1383E71E4E493D302EADC2BBEEA75C97F
+First 16 bits in Hex and Decimal: C8F8 and 51448
+51448 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 90941FCF975186B3512FDE3906EBE07D87A5AB82E01CDB75BA8A5613A00A2E02
+First 16 bits in Hex and Decimal: 9094 and 37012
+37012 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 24B6FA463E45634B66707043444776EA3117C61498B44483CCFB08839387F1E6
+First 16 bits in Hex and Decimal: 24B6 and 9398
+9398 IS less than 20,000 so puzzle solved!
+Verification Done!
+Yet to Solve 3 Unverified Blocks
+Hash is: 4C1A16EB9590466781B7B4F93F4FF8638A2D679844AF3D44A4C676C84F8AFF1B
+First 16 bits in Hex and Decimal: 4C1A and 19482
+19482 IS less than 20,000 so puzzle solved!
+Verification Done!
+Yet to Solve 2 Unverified Blocks
+Hash is: 29B6BE4E640AB638D26630719F1A9DBE4C3F5A0234F7E4C3623785235437BCDD
+First 16 bits in Hex and Decimal: 29B6 and 10678
+10678 IS less than 20,000 so puzzle solved!
+Verification Done!
+Yet to Solve 1 Unverified Blocks
+Hash is: 0067164A7F000CCB1A3F5AA7FCA312D0D9A233E45C5ECB5394F24B26EB8CFC1F
+First 16 bits in Hex and Decimal: 0067 and 103
+103 IS less than 20,000 so puzzle solved!
+Verification Done!
+Yet to Solve 0 Unverified Blocks
+Hash is: 3BC15AA6AE1614B7A12E9CF8E026E72796C5524B32F5BC487AC957376B8F8EB6
+First 16 bits in Hex and Decimal: 3BC1 and 15297
+15297 IS less than 20,000 so puzzle solved!
+Verification Done!
+Yet to Solve 0 Unverified Blocks
+THE BLOCKCHAIN IS COMPLETED
+-----------------------------------------------------
+Process 2:
+Bramhashree Manoharan's Blockchain System. Use Control-C to stop the process.
+
+Using processID 2
+
+Servers are up and listening..
+Input file- BlockInput2.txt
+Yet to Solve 10 Unverified Blocks
+Wrong Signature
+Yet to Solve 9 Unverified Blocks
+Hash is: 6C358BE0A1D69A8A3F60FD0EB0D767E10978BD3927E05A6ED923BD0EDF2EE654
+First 16 bits in Hex and Decimal: 6C35 and 27701
+27701 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 0EF96803BD6CCFBC7815631FABEBDA2F5B5C48DDD3866E89B1268F3BDD49784C
+First 16 bits in Hex and Decimal: 0EF9 and 3833
+3833 IS less than 20,000 so puzzle solved!
+Verification Done!
+Yet to Solve 8 Unverified Blocks
+Hash is: 507F060A42075F8F5F08B4928FA489581B6E557DC21E6B5F693025709184896C
+First 16 bits in Hex and Decimal: 507F and 20607
+20607 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 9713C3D510E3C6D2875ECD769DB1DD28B23AD44AB278F28C77CDA209EB77276D
+First 16 bits in Hex and Decimal: 9713 and 38675
+38675 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 943A09DDB1DC8782F218361A511694D77873C3484C980A4B8EE57CF21C378CFF
+First 16 bits in Hex and Decimal: 943A and 37946
+37946 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 773A6C433502A890BE8FD2D7D2890AFB0EAA142B897935B2CB7C44955931A6C1
+First 16 bits in Hex and Decimal: 773A and 30522
+30522 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 616E1C0544372A1006C11E09C1E37D0AC295620EDB930CECF12E7E12858B908C
+First 16 bits in Hex and Decimal: 616E and 24942
+24942 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 20DF8155959087FC00C41AD82038469A99DA298D0BDBD85D5F8A50F94386ED8D
+First 16 bits in Hex and Decimal: 20DF and 8415
+8415 IS less than 20,000 so puzzle solved!
+Verification Done!
+Yet to Solve 7 Unverified Blocks
+Wrong Signature
+Yet to Solve 6 Unverified Blocks
+Hash is: D5ABF1D3B76CE98A5B4F99A86BE9FCDDCD0C575B6BF1D3B609C11A1648ADCE15
+First 16 bits in Hex and Decimal: D5AB and 54699
+54699 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: A20B1D61DD70C02E01CEC9EA3EDF7CB67AABA8719F8822F18F525609EFAE2C30
+First 16 bits in Hex and Decimal: A20B and 41483
+41483 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: D3CA673B4FA32A83273A6FFD06BCAC20CF267F2B68F42B3E31B13551E558E92A
+First 16 bits in Hex and Decimal: D3CA and 54218
+54218 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 15F975F039D2A823DC51FF0F6FB04D1790876051407DDADEF8324EA736945ADA
+First 16 bits in Hex and Decimal: 15F9 and 5625
+5625 IS less than 20,000 so puzzle solved!
+Verification Done!
+Yet to Solve 5 Unverified Blocks
+Hash is: C5D54D389E7F1F50217E1432FBBB95A949C81A7473534894980DA7D09BEDE13C
+First 16 bits in Hex and Decimal: C5D5 and 50645
+50645 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 4FFCE40B53CA1792CF907CB82F6AA7D93B5411886476654D16EF0C8E23CCB013
+First 16 bits in Hex and Decimal: 4FFC and 20476
+20476 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 73969AC30D2A228FE282D1DAA21DEB33E21B84123B0C3B8A851CCC16259C5348
+First 16 bits in Hex and Decimal: 7396 and 29590
+29590 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 1DF966C03692A3CE240E9BC348D62F7967DFA8891927ECAEDBD6F18778ECA9DF
+First 16 bits in Hex and Decimal: 1DF9 and 7673
+7673 IS less than 20,000 so puzzle solved!
+Verification Done!
+Yet to Solve 4 Unverified Blocks
+Wrong Signature
+Yet to Solve 3 Unverified Blocks
+Hash is: 7707DE2ACBAF2CCD110E23E81473D5772E7852599CED10A5BBB836102ADD6A29
+First 16 bits in Hex and Decimal: 7707 and 30471
+30471 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 6938F71724AADF0F3F39E712F8ECC4AE76FD5F8DFA57ECA3A3EDD08D21FA2F26
+First 16 bits in Hex and Decimal: 6938 and 26936
+26936 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 47F642706B97CD3CC66D5A9EB52870C7C3594E4CE7DF09D8516E98D93510F246
+First 16 bits in Hex and Decimal: 47F6 and 18422
+18422 IS less than 20,000 so puzzle solved!
+Verification Done!
+Yet to Solve 2 Unverified Blocks
+Hash is: F65539479A5DD7CE8CABA82B41DFC15511711B796386412D50A13DD591A5A24C
+First 16 bits in Hex and Decimal: F655 and 63061
+63061 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: A90D0457E231915745336AC7496B5F8C52E20B7E63FF4D48AD69A796E424926E
+First 16 bits in Hex and Decimal: A90D and 43277
+43277 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 6CA24866DE2246F1DA81AC10BF0D91BC82FCB40BDE0CEE91E9E05827646BC65C
+First 16 bits in Hex and Decimal: 6CA2 and 27810
+27810 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 4BF9AB9E687F18B296C07F16668AE65C3A4D3B926C9F86F3AA9DCF62DA30179F
+First 16 bits in Hex and Decimal: 4BF9 and 19449
+19449 IS less than 20,000 so puzzle solved!
+Verification Done!
+Yet to Solve 1 Unverified Blocks
+Hash is: DD10C3A328E43A9620F348E1537E229E2598409816A8323AE772D5A4692ABC56
+First 16 bits in Hex and Decimal: DD10 and 56592
+56592 is not less than 20,000 so we did not solve the puzzle
+
+Hash is: 0F6FA67E3DFFEA7379FFA7985B1A1B7BABDBAB09F20F955856CB47D082221842
+First 16 bits in Hex and Decimal: 0F6F and 3951
+3951 IS less than 20,000 so puzzle solved!
+Verification Done!
+Yet to Solve 0 Unverified Blocks
+Hash is: 06A229B200AB095D13DBCA30684C54C0E2D3976DB44A92B6A6A4D9633A7158AF
+First 16 bits in Hex and Decimal: 06A2 and 1698
+1698 IS less than 20,000 so puzzle solved!
+Verification Done!
+Yet to Solve 0 Unverified Blocks
+THE BLOCKCHAIN IS COMPLETED
